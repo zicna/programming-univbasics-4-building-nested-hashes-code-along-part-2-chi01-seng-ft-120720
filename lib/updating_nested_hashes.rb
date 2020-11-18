@@ -62,7 +62,7 @@ def add_characters
    #   - The second hash should have the :name key set to "Apothecary" 
    # Code your solution here:
 
-
+  epic_tragedy[:montague][] = "dead"
 
 
 
